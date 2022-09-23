@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Moses-763
 - 👀 I’m interested in ... Typescript, Javascript, NodeJs, React
 - 🌱 I’m currently learning ... Cloud Infrastructure Maintenance
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on ... Frontend and Backend Projects
 - 📫 How to reach me ... moses@mono.co
 
 <!---
